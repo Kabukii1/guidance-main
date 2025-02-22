@@ -1,0 +1,12 @@
+.Sif h2 {
+    display: flex;
+    justify-content: center;
+}
+
+.Sif p {
+    padding-bottom: 5px;
+}
+
+.Sif ul li {
+    padding-bottom: 7px;
+}

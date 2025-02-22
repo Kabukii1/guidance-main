@@ -1,0 +1,61 @@
+
+.button-container {
+    text-align: center; /* Center align the buttons */
+}
+
+.button-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.button-list li {
+    display: inline-block;
+    margin-right: 35px; /* Adjust as needed */
+}
+
+.button-list li:last-child {
+    margin-right: 0; /* Remove margin from last button */
+}
+
+.button-list li a {
+    text-decoration: none;
+}
+
+.button-list li button {
+    padding: 15px;
+    background-color: #060c35; /* Change color as needed */
+    border: none;
+    border-radius: 20px;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    transition-property: background-color, transform;
+    transition-duration: 0.4s;
+    transition-timing-function: ease-in-out ;
+    transition-delay: 0.1s;
+}
+
+.button-list li button:hover {
+    background-color: #2d3463; /* Change color as needed */
+    transform: translateY(-5px);
+}
+
+.button-list li a button {
+    padding: 15px;
+    background-color: #060c35; /* Change color as needed */
+    border: none;
+    border-radius: 20px;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    transition-property: background-color, transform;
+    transition-duration: 0.4s;
+    transition-timing-function: ease-in-out ;
+    transition-delay: 0.1s;
+}
+
+.button-list li a button:hover {
+    background-color: #2d3463; /* Change color as needed */
+    transform: translateY(-5px);
+}

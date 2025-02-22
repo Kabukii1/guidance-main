@@ -1,0 +1,1 @@
+<?php include '../Partphp/AdHead.php'; ?>

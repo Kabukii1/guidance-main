@@ -1,0 +1,57 @@
+Online Guidance Scheduling and Incident Reporting System License (OGSIRS License)
+Version 1.0
+
+Copyright © January 15, 2025, D.A. Labs
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), known as Online Guidance Scheduling and Incident Reporting System (OGSIRS) or GySys, to use, modify, and merge the Software, subject to the following conditions:
+
+1. Creator Attribution
+The original author and contributor, D.A. Labs, must be credited in any derivative works, modifications, updates, or alternate versions of the Software.
+The credit must be prominently displayed in both the source code and any associated documentation or user interfaces where reasonably practicable.
+
+2. Retention of Rights
+All rights, titles, and interests in the original Software remain with D.A. Labs.
+Any modifications or alternate versions must include a clear acknowledgment that they are based on the original Software created by D.A. Labs.
+
+3. No Redistribution or Commercial Profit by Third Parties
+The Software, including any derivative works or modifications, may not be redistributed by third parties in any form without explicit prior written permission from D.A. Labs.
+The Software, including any derivative works or modifications, may not be used for commercial profit by third parties without explicit prior written permission from D.A. Labs.
+
+4. Freedom of Use
+The Software is provided free of charge for personal, educational, or internal organizational use, as long as all other conditions of this license are met.
+
+5. No Warranty
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+6. Redistribution Requirements
+Any authorized redistributions of the Software, in source or binary form, must include this license and retain this attribution and conditions in all copies or substantial portions of the Software.
+
+7. Prohibited Uses
+The Software may not be used for any activities that:
+
+Violate applicable laws or regulations.
+Facilitate malicious activities, such as hacking, fraud, or exploitation.
+Promote hate, violence, or discrimination.
+
+8. No Obligation for Updates
+D.A. Labs is not obligated to provide updates, bug fixes, patches, or maintenance for the Software. Any updates provided are subject to the same terms as this license.
+
+9. Use of Name or Branding
+Neither the name D.A. Labs, the Software name Online Guidance Scheduling and Incident Reporting System (OGSIRS), GySys, nor its acronym may be used to endorse or promote products derived from this Software without explicit prior written permission from D.A. Labs.
+While the names of the Software are not exclusive to this license, any utilization of the source code or systems in place in a major capacity that retains the original name or a close permutation of the Software name will result in legal action.
+
+10. Source Code Integrity
+Any modified versions of the Software must include clear documentation of all changes made, as well as the date of those changes. This documentation must be included in the source code and any associated documentation.
+
+11. Export Control
+The Software may be subject to export control laws and regulations. Users are responsible for compliance with any applicable export controls and must ensure that the Software is not transferred, directly or indirectly, to prohibited destinations or entities.
+
+12. Limitation of Liability
+In no event shall D.A. Labs be liable for any indirect, incidental, special, consequential, or punitive damages arising out of or in connection with the use or performance of the Software, even if advised of the possibility of such damages.
+
+13. Non-Transferability
+This license is non-transferable without explicit prior written consent from D.A. Labs.
+
+14. Termination
+This license will terminate immediately upon violation of any of its terms.
+By using this Software, you agree to the terms and conditions of this license.

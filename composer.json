@@ -1,0 +1,7 @@
+{
+    "require": {
+        "endroid/qr-code": "^6.0",
+        "guzzlehttp/guzzle": "^7.9",
+        "picqer/php-barcode-generator": "^3.2"
+    }
+}

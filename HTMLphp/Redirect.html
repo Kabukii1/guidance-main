@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Loading...</title>
+    <link rel="stylesheet" href="../CSS/LStyle.css">
+</head>
+<body>
+    <div class="loader"></div>
+    <script>
+        // Function to check if the user is admin
+        function isAdmin() {
+            // Example logic, replace it with your actual admin check logic
+            var isAdmin = false; // Assuming user is not admin by default
+            // Perform your admin check here and set isAdmin accordingly
+            return isAdmin;
+        }
+
+        // Redirect based on admin status after 3 seconds
+        setTimeout(function() {
+            if (isAdmin()) {
+                window.location.href = "AdLoad.html"; // Redirect to admin page
+            } else {
+                window.location.href = "Load.html"; // Redirect to regular user page
+            }
+        }, 100); // 3000 milliseconds = 3 seconds
+    </script>
+</body>
+</html>

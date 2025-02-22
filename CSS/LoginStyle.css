@@ -1,0 +1,74 @@
+@import url("https://fonts.googleapis.com/css2?family=Lexend:wght@400&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
+html {
+    background-color: #050A30;
+}
+
+.Main {
+    background-image: repeating-conic-gradient(from 30deg, #050A30 0% 25%, #060c35 25% 50%) ;
+    background-size: 50px 50px;
+}
+
+.Container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.login-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #050A30;
+    border-radius: 5%;
+    padding: 50px;
+    box-shadow: 0 6px 60px rgba(0, 0, 0, 0.5);
+}
+
+.Logo {
+    margin: 0 auto; /* Center horizontally */
+    margin-bottom: 25px;
+    padding-top: 1rem; /* Adjust as needed */
+    width: 300px;
+    height: 300px;
+    background-color: #050A30;
+}
+
+.LTitle {
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 65px;
+    margin-bottom: 40px;
+    margin-top: -10px;
+}
+
+.Textbox {
+    width: 100%;
+    padding: 18px;
+    margin: 5px 0;
+    border-radius: 10px;
+    background-color: aliceblue;
+    border: #050A30 solid thin;
+    box-sizing: border-box;
+}
+
+.Button1 {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 18px 25px; /* Larger button size */
+    border-radius: 10px;
+    font-size: 20px; /* Larger font size for button text */
+    cursor: pointer;
+    margin-top: 15px;
+    width: 100%;
+    transition: background-color 0.3s ease;
+}
+
+.Textbox:focus {
+    outline: none;
+    border: 2px solid #007bff;
+}

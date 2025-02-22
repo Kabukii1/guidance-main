@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=Lexend:wght@400&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
+.Footer {
+    position: relative;
+    bottom: 0px;
+    left: 0px;
+    color: #ffffff;
+    text-align: center;
+    padding: 1px;
+    border: 1px solid #050A30;
+    border-top-left-radius: 10%; /* adjusted border-radius value */
+    border-top-right-radius: 10%;  /* adjusted border-radius value */
+    background: hsl( 244.8, 83.7%, 10.3%, .8);
+}
+
+.FContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background: hsl( 244.8, 83.7%, 10.3%, 0);
+    padding: 1px; /* added padding for spacing */
+    border: 1px solid #050A30;
+    border-top-left-radius: 100%; /* adjusted border-radius value */
+    border-top-right-radius: 100%;  /* adjusted border-radius value */
+}
+
+.left-section,
+.right-section,
+.middle-section {
+    flex: 1; /* Each section takes up equal space */
+    text-align: center; /* Center align text */
+    color: #ffffff;
+
+}
+
+.AUOS {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #050A30;
+    border-radius: 50%; /* adjusted border-radius value */
+    padding: 1px; /* added padding for spacing */
+
+}
+
+.AU {
+    width: 30%;
+    height: 30%;
+    max-width: 100%; /* Ensure the image fits within its container */
+    background: hsl( 244.8, 83.7%, 10.3%, 0);
+    border-radius: 100%;
+}
